@@ -40,7 +40,6 @@ Because this is a prototype with no real authentication, you simulate multiple u
 
 Everything lives in a single file: `src/App.js`
 
-```
 App.js
 ├── store            – localStorage read/write helpers
 ├── generateId()     – creates unique IDs for profiles
