@@ -2,7 +2,7 @@
 
 A single-page dating app prototype built with React. Users can create profiles, like each other, match, and schedule a date — all within the browser.
 
-**Live demo:** _[add your Vercel/Netlify link here]_  
+**Live demo:** _[https://dating-app-sand.vercel.app/]_  
 **Tech stack:** React, localStorage (no backend)
 
 ---
@@ -10,7 +10,7 @@ A single-page dating app prototype built with React. Users can create profiles, 
 ## Getting Started
 
 ```bash
-git clone https://github.com/your-username/clique-dating
+git clone https://github.com/tungblzae1nt/clique-dating
 cd clique-dating
 npm install
 npm start
